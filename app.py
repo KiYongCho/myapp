@@ -1,6 +1,10 @@
 # app.py
 # Render배포 연습용 앱
 
+# 최초 실행 시 아래 2개 명령 수행 (깃 이메일주소, 깃 계정명)
+# git config --global user.email "you@example.com"
+# git config --global user.name "Your Name"
+
 # 로컬 실행
 # python -m streamlit run ./webservice/day31/myapp/app.py
 
